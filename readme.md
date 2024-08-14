@@ -1,0 +1,1 @@
+- Require: llama3 (Ollama model)
